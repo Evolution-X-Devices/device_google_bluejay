@@ -31,3 +31,4 @@ BOARD_VENDOR_SEPOLICY_DIRS += \
 include device/google/gs101/wifi/BoardConfig-wifi.mk
 
 include $(VENDOR_PATH)/BoardConfigVendor.mk
+include $(DEVICE_PATH)/$(TARGET_BOOTLOADER_BOARD_NAME)/BoardConfigEvolution.mk

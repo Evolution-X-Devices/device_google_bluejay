@@ -1,0 +1,18 @@
+[
+  {
+    "repository": "device_google_gs101",
+    "target_path": "device/google/gs101"
+  },
+  { 
+    "remote": "github",
+    "repository": "LineageOS/android_device_google_bluejay-kernels",
+    "target_path": "device/google/bluejay-kernels",
+    "branch": "lineage-23.2"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_google_bluejay",
+    "target_path": "vendor/google/bluejay",
+    "remote": "github-non-los",
+    "branch": "lineage-24.0"
+  }
+]
