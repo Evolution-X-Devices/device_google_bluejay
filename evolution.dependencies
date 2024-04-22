@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "device_google_gs101",
+    "target_path": "device/google/gs101"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "device_google_bluejay-kernels_evolution",
+    "target_path": "device/google/bluejay-kernels/evolution"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "vendor_google_bluejay",
+    "target_path": "vendor/google/bluejay"
+  }
+]
