@@ -4,8 +4,15 @@
     "target_path": "device/google/gs101"
   },
   {
-    "repository": "device/google/bluejay-kernels/6.1",
-    "target_path": "device/google/bluejay-kernels/6.1",
-    "remote": "aosp-bluejay"
+    "remote": "evo-tensor",
+    "repository": "device_google_bluejay-kernels_evolution",
+    "target_path": "device/google/bluejay-kernels/evolution",
+    "branch": "bka"
+  },
+  {
+    "remote": "evo-tensor",
+    "repository": "vendor_google_bluejay",
+    "target_path": "vendor/google/bluejay",
+    "branch": "bka"
   }
 ]
